@@ -1,5 +1,3 @@
-# Intelligent-Chatbot
-NLP based Intelligent ChatBot built in python using nltk and sklearn modules
 # Intelligent Chatbot
 
 An advanced, customizable chatbot built with Python. This project demonstrates natural language processing, context-aware conversation, and easy extensibility for various use cases.
@@ -53,3 +51,4 @@ Modify `data.txt` to add new questions and answers. You can also extend `Chatbot
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
