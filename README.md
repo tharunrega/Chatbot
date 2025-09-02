@@ -16,8 +16,8 @@ An advanced, customizable chatbot built with Python. This project demonstrates n
 ### Installation
 1. Clone this repository:
 	```sh
-	git clone https://github.com/KushalVijay/Intelligent-Chatbot.git
-	cd Intelligent-Chatbot
+	git clone https://github.com/tharunrega/Chatbot.git
+	cd Chatbot
 	```
 2. (Optional) Create and activate a virtual environment:
 	```sh
@@ -51,4 +51,5 @@ Modify `data.txt` to add new questions and answers. You can also extend `Chatbot
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
